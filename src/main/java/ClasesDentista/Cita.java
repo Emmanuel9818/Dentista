@@ -9,6 +9,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 
+// Aqui toi
 public class Cita {
     private int dia;
     private String hora;
